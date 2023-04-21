@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      "test"
+subtitle:   "test"
+date:       2023-04-21 15:00:00
+author:     "Scalefreeus"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Algorithm
+    - CPP
+---
+
 ## Dacon 9회 펀다 상점매출예측 모델링 경진대회
 ## DB분석가(이건희, 최종승)
 
