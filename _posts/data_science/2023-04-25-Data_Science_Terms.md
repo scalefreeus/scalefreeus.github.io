@@ -1,16 +1,15 @@
 ---
 layout:     post
 title:      "Data Science 기본 용어들"
-subtitle:   ""
+subtitle:   "test"
 date:       2022-04-25 12:00:00
 author:     "Scalefreeus"
-header-style: text
+header-style: text 
 catalog: true
 tags:
     - Algorithm
     - Meta
 ---
-
 # 기본 용어
 
 ## 변수의 타입
@@ -31,9 +30,3 @@ tags:
             0이 없음을 의미하는 경우 (절대 0점), 사칙연산 가능
 </pre>
 
-
-
-
-```python
-
-```
