@@ -6,8 +6,7 @@ author:     "Scalefreeus"
 header-style: text 
 catalog: true
 tags:
-    - Algorithm
-    - Meta
+    - Data Science
 ---
 # 기본 용어
 
