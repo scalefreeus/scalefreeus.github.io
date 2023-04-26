@@ -16,3 +16,6 @@ https://koyaaarr.medium.com/stable-diffusion-quickstart-withwsl2-and-rtx3070-e8f
 https://pytorch.org/
 
 https://codeburst.io/how-to-install-the-jupyter-notebook-server-in-wsl2-7c96b3705df1
+
+ImportError: libcuda.so.1: cannot open shared object file: No such file or directory
+https://stackoverflow.com/questions/54249577/importerror-libcuda-so-1-cannot-open-shared-object-file
