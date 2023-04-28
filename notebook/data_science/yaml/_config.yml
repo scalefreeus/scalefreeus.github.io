@@ -1,0 +1,34 @@
+title: Statistics with Python
+author: Sung Lee
+copyright: "2023"
+
+execute:
+  execute_notebooks: force
+
+latex:
+  latex_documents:
+    targetname: book.tex
+
+#bibtex_bibfiles:
+#    - references.bib
+
+#bibtex_reference_style: author_year
+#bibtex_reference_style    : author_year_round
+#bibtex_default_style        : myapastyle
+
+repository:
+  url: https://github.com/scalefreeus/scalefreeus.github.io/
+  branch: https://github.com/scalefreeus/scalefreeus.github.io/tree/main
+
+html:
+  use_issues_button: true
+  use_repository_button: true
+
+
+parse:
+  myst_enable_extensions:
+    - html_image
+    - dollarmath
+#sphinx:
+#  config:
+#    bibtex_reference_style: author_year
