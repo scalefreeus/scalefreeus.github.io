@@ -1,7 +1,7 @@
 ---
 title:      "Data Science 기본 용어들"
 collection: teaching
-date:       2022-04-25 12:00:00
+date:       2022-04-25
 author:     "Scalefreeus"
 header-style: text 
 catalog: true

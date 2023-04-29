@@ -1,8 +1,9 @@
 ---
 title:      "Data Science 탐색적 데이터 분석"
 collection:     teaching
-date:       2022-04-25 12:00:00
+date:       2022-04-25
 author:     "Scalefreeus"
+permalink: /teaching/2023-datascience-eda
 header-style: text 
 catalog: true
 tags:
