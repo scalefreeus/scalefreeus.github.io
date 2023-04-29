@@ -1,6 +1,0 @@
-format: jb-book
-root: README.md
-parts:
-- caption: KMeans
-  chapters:
-  - file: 2023-04-27-K-means_Clustering.ipynb
