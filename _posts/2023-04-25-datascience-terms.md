@@ -7,6 +7,7 @@ catalog: true
 tags:
     - Data Science
 ---
+
 # 기본 용어
 
 ## 변수의 타입

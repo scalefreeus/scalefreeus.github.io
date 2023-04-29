@@ -7,6 +7,7 @@ catalog: true
 tags:
     - Data Science
 ---
+
 # 탐색적 데이터 분석 (Exploratory data analysis (EDA))
 
 # 분포 분석 (수치형 변수)
