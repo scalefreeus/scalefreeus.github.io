@@ -58,6 +58,3 @@ docs-en:
         url:    /docs/en/quick-start
       - title:  Structure
         url:    /docs/en/structure
-
-sidebar:
-  nav: docs-en
