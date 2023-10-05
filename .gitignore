@@ -8,6 +8,8 @@
 *.swo
 *.log
 *.log.*
+*.saved_model
+*.saved_model_history
 
 /.vscode/
 
