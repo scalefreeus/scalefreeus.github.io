@@ -27,7 +27,7 @@ jobs:
       - name: Convert notebooks
         run: python convert_notebooks.py
       - name: Commit and Push new files to the repository
-        uses: scalefreeus/publish-to-github-action@gh-pages-2
+        uses: scalefreeus/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_NAME: 'gh-pages-2'
