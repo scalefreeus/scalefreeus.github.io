@@ -3,7 +3,7 @@ name: Convert Notebooks
 on:
   push:
     branches:
-      - main
+      - gh-pages-2
 
 jobs:
   build:
@@ -27,7 +27,7 @@ jobs:
       - name: Convert notebooks
         run: python convert_notebooks.py
       - name: Commit and Push new files to the repository
-        uses: mpewsey/publish-to-github-action@master
+        uses: scalefreeus/publish-to-github-action@gh-pages-2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_NAME: 'main'
